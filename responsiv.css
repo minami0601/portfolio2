@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+    #test {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .box-icon {
+        margin-bottom: 20px;
+    }
+    .w-box {
+        margin-bottom: 30px;
+    }
+    .nav {
+        display: none;
+    }
+    .menubutton {
+        opacity: 1;
+        visibility: visible;
+    }
+}
